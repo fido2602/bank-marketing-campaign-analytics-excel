@@ -95,6 +95,12 @@ The interactive-style Excel dashboard summarizes the analysis through:
 - A key business insights section highlighting major findings.
 - A separate dashboard data worksheet supporting the visualizations.
 
+
+### Dashboard Preview
+
+[View the complete Excel Dashboard (PDF)](Bank_Marketing_Campaign_Analytics_Dashboard.pdf)
+
+
 ## Project Deliverable
 
 `Bank_Marketing_Campaign_Analytics.xlsx`
